@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block conteudo %}
+
+     <div class="jumbotron jumbotron-fluid">
+      <div class="container">
+          <h1 class="display-5">DashBoard</h1>
+          <div class="row align-items-end">
+            <div class="col">
+              <div class="card border-danger mb-3" style="max-width: 18rem;">
+                <div class="card-header align-self-center"><a href="#" class="badge badge-danger">Pendentes</a></div>
+                <div class="card-body align-self-center text-danger">
+                  <h4 class="card-title">10</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card border-primary mb-3" style="max-width: 18rem;">
+                <div class="card-header align-self-center"><a href="#" class="badge badge-primary">Agendados</a></div>
+                <div class="card-body align-self-center text-primary">
+                  <h4 class="card-title">10</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card border-success mb-3" style="max-width: 18rem;">
+                <div class="card-header align-self-center"><a href="#" class="badge badge-success">Sucesso</a></div>
+                <div class="card-body align-self-center text-success">
+                  <h4 class="card-title">10</h4>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <h1 class="display-5">Agenda</h1>
+
+          <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr class="table-active">
+                      <th scope="col">Agenda</th>
+                      <th scope="col">Quantidade</th>
+                    </tr>
+                </thead>
+                  <tbody>
+                    <tr class="alert-danger" role="alert">
+                      <th scope="row"><a class="alert-danger" href="#">Novo</a></th>
+                      <td><a class="alert-danger" href="#">5</a></td>
+                    </tr>
+                    <tr class="alert-info" role="alert">
+                      <th scope="row"><a class="alert-info" href="#">Hoje</a></th>
+                      <td><a class="alert-info" href="#">8</a></td>
+                    </tr>
+                    <tr class="alert-info" role="alert">
+                      <th scope="row"><a class="alert-info" href="#">Semana</a></th>
+                      <td ><a class="alert-info" href="#">12</a></td>
+                    </tr>
+                    <tr class="alert-info" role="alert">
+                      <th scope="row"><a class="alert-info" href="#">Mês</a></th>
+                      <td class="align-self-center"><a class="alert-info" href="#">30</a></td>
+                    </tr>
+                  </tbody>
+            </table>
+          </div>
+      </div>
+     </div>
+
+{% endblock %}

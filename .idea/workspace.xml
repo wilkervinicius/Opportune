@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83a78a6f-df98-40c9-9b80-12d632b4faaa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/wilker.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/estagios2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estagios2/.idea/dictionaries/wilker.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estagios2/.idea/estagios2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estagios2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estagios2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estagios2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estagios2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estagios2/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estagios2/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estagios2/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/.idea/dictionaries/wilker.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/.idea/geodjango.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/geodjango/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/geodjango/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/geodjango/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/geodjango/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/world/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/world/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/world/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/world/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/world/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/world/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/world/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/migrations/0002_leadacoes_lead.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/migrations/0003_auto_20181116_0435.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/migrations/0004_auto_20181119_1428.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/templates/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/templates/geolocalizacao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/templates/lead_historico.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/templates/list_lead_agendadas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/templates/list_lead_hoje.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/templates/list_lead_mes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/templates/list_lead_novos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/templates/list_lead_pendentes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/templates/list_lead_semana.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/templates/new_acao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/templates/new_lead.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opportune/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/map.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/logout.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1995559900">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="5" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="71" />
+          <entry key="js" value="3" />
+          <entry key="py" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="5" />
+          <entry key="HTML" value="70" />
+          <entry key="JavaScript" value="3" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="56" />
+          <entry key="gitignore" value="10" />
+          <entry key="html" value="4389" />
+          <entry key="js" value="31" />
+          <entry key="py" value="6891" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="56" />
+          <entry key="HTML" value="4380" />
+          <entry key="JavaScript" value="31" />
+          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="Python" value="6891" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/registration/logout.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/estagios2/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/opportune/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="152" selection-start-line="152" selection-end-line="152" />
+              <folding>
+                <element signature="e#0#79#0" expanded="true" />
+                <marker date="1543076285251" expanded="true" signature="425:515" ph="..." />
+                <marker date="1543076285251" expanded="true" signature="2059:2159" ph="..." />
+                <marker date="1543076285251" expanded="true" signature="2511:2883" ph="..." />
+                <marker date="1543076285251" expanded="true" signature="3563:3568" ph="..." />
+                <marker date="1543076285251" expanded="true" signature="4248:4253" ph="..." />
+                <marker date="1543076285251" expanded="true" signature="5580:5585" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>geopo</find>
+      <find>pop</find>
+      <find>login</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/opportune/templates/dashboard.html" />
+        <option value="$PROJECT_DIR$/opportune/templates/add_lead.html" />
+        <option value="$PROJECT_DIR$/opportune/admin.py" />
+        <option value="$PROJECT_DIR$/static/styles.css" />
+        <option value="$PROJECT_DIR$/static/style.css" />
+        <option value="$PROJECT_DIR$/opportune/LeadAcoesForm.py" />
+        <option value="$PROJECT_DIR$/opportune/forms.py" />
+        <option value="$PROJECT_DIR$/opportune/templates/list_lead_agendadas.html" />
+        <option value="$PROJECT_DIR$/opportune/templates/list_lead_hoje.html" />
+        <option value="$PROJECT_DIR$/opportune/templates/list_lead_novos.html" />
+        <option value="$PROJECT_DIR$/opportune/templates/list_lead_pendentes.html" />
+        <option value="$PROJECT_DIR$/opportune/templates/lead_historico.html" />
+        <option value="$PROJECT_DIR$/opportune/urls.py" />
+        <option value="$PROJECT_DIR$/opportune/templates/list_lead_semana.html" />
+        <option value="$PROJECT_DIR$/opportune/templates/list_lead_mes.html" />
+        <option value="$PROJECT_DIR$/opportune/models.py" />
+        <option value="$PROJECT_DIR$/opportune/templates/index.html" />
+        <option value="$PROJECT_DIR$/opportune/templates/new_lead.html" />
+        <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/opportune/templates/geolocalizacao.html" />
+        <option value="$PROJECT_DIR$/static/js/script.js" />
+        <option value="$PROJECT_DIR$/opportune/templates/new_acao.html" />
+        <option value="$PROJECT_DIR$/templates/registration/logout.html" />
+        <option value="$PROJECT_DIR$/opportune/views.py" />
+        <option value="$PROJECT_DIR$/estagios2/urls.py" />
+        <option value="$PROJECT_DIR$/templates/registration/login.html" />
+        <option value="$PROJECT_DIR$/gitignore" />
+        <option value="$PROJECT_DIR$/API_KEY.py" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/estagios2/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="1360" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="estagios2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="estagios2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="estagios2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="estagios2" type="462c0819:PsiDirectoryNode" />
+              <item name="estagios2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../javascript" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates/registration" />
+      <recent name="$PROJECT_DIR$/static/css" />
+      <recent name="$PROJECT_DIR$/static/js" />
+      <recent name="$PROJECT_DIR$/opportune/templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83a78a6f-df98-40c9-9b80-12d632b4faaa" name="Default Changelist" comment="" />
+      <created>1541968108911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541968108911</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22859271" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293718" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33278146" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22859271" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293718" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33443707" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/opportune/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opportune/templates/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="16" lean-forward="true" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opportune/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opportune/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-660">
+          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opportune/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/style.css" />
+    <entry file="file://$PROJECT_DIR$/opportune/LeadAcoesForm.py" />
+    <entry file="file://$PROJECT_DIR$/opportune/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="85" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opportune/templates/list_lead_novos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="19" column="70" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opportune/templates/list_lead_pendentes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="18" column="70" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opportune/templates/list_lead_agendadas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="22" column="73" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opportune/templates/list_lead_semana.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opportune/templates/list_lead_hoje.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="19" column="70" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opportune/templates/lead_historico.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="e#506#512#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/map.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/map.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opportune/templates/list_lead_mes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opportune/templates/new_lead.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opportune/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="88" selection-start-line="11" selection-start-column="88" selection-end-line="11" selection-end-column="88" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opportune/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-203">
+          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+            <marker date="1542853268709" expanded="true" signature="2266:2310" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opportune/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-502">
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/django/contrib/auth/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="77" column="45" lean-forward="true" selection-start-line="77" selection-start-column="45" selection-end-line="77" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opportune/templates/geolocalizacao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opportune/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="152" selection-start-line="152" selection-end-line="152" />
+          <folding>
+            <element signature="e#0#79#0" expanded="true" />
+            <marker date="1543076285251" expanded="true" signature="425:515" ph="..." />
+            <marker date="1543076285251" expanded="true" signature="2059:2159" ph="..." />
+            <marker date="1543076285251" expanded="true" signature="2511:2883" ph="..." />
+            <marker date="1543076285251" expanded="true" signature="3563:3568" ph="..." />
+            <marker date="1543076285251" expanded="true" signature="4248:4253" ph="..." />
+            <marker date="1543076285251" expanded="true" signature="5580:5585" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estagios2/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+          <folding>
+            <element signature="e#633#665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="35" selection-start-line="35" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opportune/templates/new_acao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/logout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_KEY.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estagios2/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

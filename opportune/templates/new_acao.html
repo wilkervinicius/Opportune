@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+
+{% load bootstrap %}
+
+{% block title %}Nova Ação{% endblock %}
+
+{% block conteudo %}
+
+     <div class="jumbotron jumbotron-fluid">
+
+         <div class="container">
+
+          <h1 class="display-5">Nova Ação</h1>
+              <div>
+
+              <div class="row align-items-center">
+                <div class="col">
+                    <h6>Numero Lead: <p class="text-info">{{lead.id}}</p></h6>
+                </div>
+                <div class="col">
+                    <h6>Status: <p class="text-info">{{lead.get_status_display}}</p></h6>
+                </div>
+                <div class="col">
+                    <h6 class="text-muted">Criado Em: <p class="text-info">{{lead.created_at|timesince}}</p></h6>
+                </div>
+              </div>
+              <div class="row align-items-end">
+                <div class="col">
+                    <h6>Nome cliente: <p class="text-info">{{lead.cliente}}</p></h6>
+                </div>
+                <div class="col">
+                    <h6>Telefone: <p class="text-info">{{lead.telefone}}</p></h6>
+                </div>
+                <div class="col">
+                    <h6>E-mail: <p class="text-info">{{lead.email}}</p></h6>
+                </div>
+              </div>
+             </div>
+            <form action="{% url 'opportune:lead_acoes' lead.id %}" method="post">
+                {% csrf_token %}
+                {{form|bootstrap}}
+
+              <div class="row">
+                <div class="col">
+                     <button type="submit" class="btn btn-primary">Adicionar</button>
+                </div>
+                <div class="col">
+                    <button type="submit" {{lead.sucesso}} class="btn btn-success">Sucesso</button>
+                    <a href="{% url 'opportune:dashboard' %}" class="btn btn-danger">Descartar</a>
+                </div>
+                <div class="col mr-0">
+                    <a href="{% url 'opportune:dashboard' %}" class="btn btn-info" > Dashboard</a>
+                </div>
+              </div>
+
+            </form>
+
+       </div>
+
+     </div>
+
+
+{% endblock %}

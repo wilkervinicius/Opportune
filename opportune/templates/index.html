@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block conteudo %}
+
+     <div class="jumbotron jumbotron-fluid">
+      <div class="container">
+          <h1 class="display-5">DashBoard</h1>
+          <div class="row align-items-end">
+            <div class="col">
+              <div class="card border-danger mb-3" style="max-width: 18rem;">
+                <div class="card-header align-self-center"><a href="{% url 'opportune:list_lead_pendentes'%}" class="badge badge-danger">Pendentes</a></div>
+                <div class="card-body align-self-center text-danger">
+                  <h4 class="card-title {% url 'opportune:list_lead_pendentes'%}">{{lead_pendentes}}</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card border-primary mb-3" style="max-width: 18rem;">
+                <div class="card-header align-self-center">
+                    <a href="{% url 'opportune:list_lead_agendadas' %}" class="badge badge-primary">Agendados</a></div>
+                <div class="card-body align-self-center text-primary">
+                  <h4 class="card-title " >{{leads_agendada}}</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card border-success mb-3" style="max-width: 18rem;">
+                <div class="card-header align-self-center"><a href="#" class="badge badge-success">Sucesso</a></div>
+                <div class="card-body align-self-center text-success">
+                  <h4 class="card-title">10</h4>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <h1 class="display-5">Agenda</h1>
+
+          <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr class="table-active">
+                      <th scope="col">Agenda</th>
+                      <th scope="col">Quantidade</th>
+                    </tr>
+                </thead>
+                  <tbody>
+                    <tr class="alert-warning" role="alert">
+                      <th scope="row"><a class="alert-danger" href="{% url 'opportune:list_lead_novos' %}">Novo</a></th>
+                      <td><a class="alert-danger" href="{% url 'opportune:list_lead_novos' %}">{{lead_novo}}</a></td>
+                    </tr>
+                    <tr class="alert-info" role="alert">
+                      <th scope="row"><a class="alert-info" href="{% url 'opportune:leads_hoje' %}">Hoje</a></th>
+                      <td><a class="alert-info" href="{% url 'opportune:leads_hoje' %}">{{leads_hoje}}</a></td>
+                    </tr>
+                    <tr class="alert-info" role="alert">
+                      <th scope="row"><a class="alert-info" href="{% url 'opportune:leads_semana' %}">Semana</a></th>
+                      <td ><a class="alert-info" href="{% url 'opportune:leads_semana' %}">{{leads_semana}}</a></td>
+                    </tr>
+                    <tr class="alert-info" role="alert">
+                      <th scope="row"><a class="alert-info" href="{% url 'opportune:leads_mes' %}">Mês</a></th>
+                      <td class="align-self-center"><a class="alert-info" href="{% url 'opportune:leads_mes' %}">{{leads_mes}}</a></td>
+                    </tr>
+                  </tbody>
+            </table>
+              <a class="btn btn-outline-primary" href="{% url 'opportune:new_lead' %}">Novo Lead</a>
+
+          </div>
+      </div>
+
+
+     </div>
+
+{% endblock %}

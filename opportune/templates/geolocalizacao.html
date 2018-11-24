@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+
+
+
+{% block conteudo %}
+
+
+
+    <form class="form-inline" id="id_search_form">
+        <input type="text" id="id_term" class="form-control mb-2 mr-sm-2" name="term" placeholder="Enter a search term"/>
+        <input type="submit" class="btn btn-primary mb-2" value="Search">
+    </form>
+
+    <div id="map">
+        <h3 id="geolocation">Geolocating...</h3>
+    </div>
+
+{% endblock %}

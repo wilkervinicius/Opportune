@@ -1,0 +1,24 @@
+.engrenagem-item {
+
+float: right;
+
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+
+aside {
+    background: #1f8dd6;
+    padding: 0.3em 1em;
+    border-radius: 3px;
+    color: #fff;
+}
+aside p {
+    margin: 0.4em 0;
+
+aside a, aside a:visited {
+    color: rgb(169, 226, 255);
+}
