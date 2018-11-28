@@ -1,73 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83a78a6f-df98-40c9-9b80-12d632b4faaa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/wilker.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/estagios2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estagios2/.idea/dictionaries/wilker.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estagios2/.idea/estagios2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estagios2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estagios2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estagios2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estagios2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estagios2/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estagios2/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estagios2/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geodjango/.idea/dictionaries/wilker.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geodjango/.idea/geodjango.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geodjango/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geodjango/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geodjango/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geodjango/geodjango/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geodjango/geodjango/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geodjango/geodjango/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geodjango/geodjango/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geodjango/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geodjango/world/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geodjango/world/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geodjango/world/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geodjango/world/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geodjango/world/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geodjango/world/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geodjango/world/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/migrations/0002_leadacoes_lead.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/migrations/0003_auto_20181116_0435.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/migrations/0004_auto_20181119_1428.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/templates/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/templates/geolocalizacao.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/templates/lead_historico.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/templates/list_lead_agendadas.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/templates/list_lead_hoje.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/templates/list_lead_mes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/templates/list_lead_novos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/templates/list_lead_pendentes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/templates/list_lead_semana.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/templates/new_acao.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/templates/new_lead.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opportune/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/map.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/registration/logout.html" afterDir="false" />
-    </list>
+    <list default="true" id="83a78a6f-df98-40c9-9b80-12d632b4faaa" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +29,7 @@
           <entry key="gitignore" value="1" />
           <entry key="html" value="71" />
           <entry key="js" value="3" />
-          <entry key="py" value="32" />
+          <entry key="py" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -104,12 +38,13 @@
           <entry key="HTML" value="70" />
           <entry key="JavaScript" value="3" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="32" />
+          <entry key="Python" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="56" />
+          <entry key="dummy" value="35" />
           <entry key="gitignore" value="10" />
           <entry key="html" value="4389" />
           <entry key="js" value="31" />
@@ -121,7 +56,7 @@
           <entry key="CSS" value="56" />
           <entry key="HTML" value="4380" />
           <entry key="JavaScript" value="31" />
-          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="PLAIN_TEXT" value="54" />
           <entry key="Python" value="6891" />
         </counts>
       </usages-collector>
@@ -141,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/estagios2/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
+            <state relative-caret-position="246">
+              <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
             </state>
           </provider>
         </entry>
@@ -168,7 +103,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="-563">
               <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
             </state>
           </provider>
@@ -316,7 +251,7 @@
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22859271" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22859271" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -327,7 +262,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33278146" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33278146" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -572,24 +507,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/API_KEY.py">
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-563">
+          <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google_api_key.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/estagios2/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
+        <state relative-caret-position="246">
+          <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
         </state>
       </provider>
     </entry>
